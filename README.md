@@ -18,7 +18,7 @@
 ## 🚀 Запуск
 ```bash
 # Клонирование и запуск
-git clone https://github.com/your-username/meteors
-cd meteors
+git clone https://github.com/redblan/meteor-shooter-go-IU5-31B-
+cd meteor-shooter-go-IU5-31B-/
+go mod tidy
 go run .
-
